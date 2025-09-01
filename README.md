@@ -4,9 +4,13 @@
 📊 Top Insights
 
 💰 Total Revenue: ₹5.2M
+
 📦 Total Orders: 8,432
+
 🛒 Best-Selling SKU: SKU123 with ₹1.1M revenue
+
 🏆 Top State: Maharashtra contributing 25% of sales
+
 📈 Trend: Steady revenue growth across months## 
 
 📌 Project Overview  
