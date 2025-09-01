@@ -1,0 +1,6 @@
+Total revenue: ₹78590170.25
+AOV: ₹653.67
+Order-level delivery rate: 22.09%
+Line-level return rate: 15.84%
+~2 SKUs make up ~80% of revenue.
+Top 5 states contribute ~56.1% of revenue.
