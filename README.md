@@ -87,11 +87,3 @@ This launches the interactive dashboard for sales insights.
 - Top contributing states  
 - Overall KPIs (Total Revenue, Orders, Avg. Order Value)  
 
----
-
-## 📌 Submission Instructions  
-
-1. Push this entire project folder to GitHub.  
-2. Ensure all files are committed (dataset, notebook, outputs, app.py, docs).  
-3. Share your **GitHub repo link** as final submission.  
-4. (Optional) Upload `docs/Project_Report.pdf` and `docs/Presentation.pptx` to Drive and share the link.  
