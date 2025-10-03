@@ -47,6 +47,8 @@ Amazon-Sales-Analysis/
 │── docs/
 │   ├── Project_Report.pdf                # Final project report
 │   ├── Presentation.pptx                 # PowerPoint slides
+│── sql/
+│   ├── amazon_sales_queries.sql          # SQL queries used for analysis
 │── README.md                             # Project documentation
 ```
 
